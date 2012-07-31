@@ -1,5 +1,6 @@
 wwwswitcher - Change your Apache server folder easily.
 v0.1 by Enric Florit
+Licensed under GPLv2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 Enjoy! Feedback is welcome: efz1005[at]gmail[dot]com
 
 Alpha version - use at your own risk
